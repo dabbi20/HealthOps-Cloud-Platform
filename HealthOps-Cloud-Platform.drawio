@@ -4,6 +4,51 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7h97bwU-Ro9vqI5lnhqT-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="" vertex="1">
+          <mxGeometry height="100" width="620" x="60" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7h97bwU-Ro9vqI5lnhqT-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="100" width="620" x="60" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="7h97bwU-Ro9vqI5lnhqT-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="100" width="620" x="60" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="7h97bwU-Ro9vqI5lnhqT-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="100" width="620" x="60" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="7h97bwU-Ro9vqI5lnhqT-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="100" width="620" x="60" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="7h97bwU-Ro9vqI5lnhqT-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="100" width="620" x="60" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="7h97bwU-Ro9vqI5lnhqT-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="100" width="620" x="60" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="7h97bwU-Ro9vqI5lnhqT-14" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;h1 data-section-id=&quot;1oj1ttk&quot; data-start=&quot;369&quot; data-end=&quot;399&quot; class=&quot;PDq2pG_selectionAnchorContainer&quot;&gt;&lt;span role=&quot;text&quot;&gt;&lt;strong data-start=&quot;371&quot; data-end=&quot;399&quot;&gt;HealthOps Cloud Platform&lt;/strong&gt;&lt;/span&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;PDq2pG_selectionAnchor&quot;&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h3 data-section-id=&quot;1lclb0l&quot; data-start=&quot;400&quot; data-end=&quot;426&quot;&gt;&lt;span role=&quot;text&quot;&gt;&lt;em data-start=&quot;404&quot; data-end=&quot;426&quot;&gt;General Architecture&lt;/em&gt;&lt;/span&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="90" width="660" x="84" as="geometry" />
+        </mxCell>
+        <mxCell id="7h97bwU-Ro9vqI5lnhqT-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;CLIENT LAYER&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="30" width="90" x="70" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7h97bwU-Ro9vqI5lnhqT-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="EDGE / API LAYER" vertex="1">
+          <mxGeometry height="30" width="110" x="70" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="7h97bwU-Ro9vqI5lnhqT-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DATA LAYER" vertex="1">
+          <mxGeometry height="30" width="110" x="70" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="7h97bwU-Ro9vqI5lnhqT-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="AUTOMATION LAYER" vertex="1">
+          <mxGeometry height="30" width="130" x="84" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="7h97bwU-Ro9vqI5lnhqT-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="EXTERNAL CHANNELS" vertex="1">
+          <mxGeometry height="30" width="140" x="70" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="7h97bwU-Ro9vqI5lnhqT-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MESSAGING LAYER" vertex="1">
+          <mxGeometry height="30" width="126" x="70" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="7h97bwU-Ro9vqI5lnhqT-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MICROSERVICES LAYER" vertex="1">
+          <mxGeometry height="30" width="150" x="70" y="440" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
